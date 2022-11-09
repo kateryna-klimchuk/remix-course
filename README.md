@@ -1,5 +1,6 @@
 <div>
   <h1 align="center"><a href="https://frontendmasters.com/courses/remix/">💿 Remix Fundamentals</a></h1>
+  <p>A link to kent's websites: https://kentcdodds.com/blog</p>
   <strong>
     Build Better websites with Remix
   </strong>
